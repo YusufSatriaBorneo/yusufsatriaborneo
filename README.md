@@ -1,7 +1,7 @@
 [![MasterHead](https://wallpaper.dog/large/17167859.gif)](https://yusufsatriaborneo.github.io/)
 <h1 align="center">Hi 👋, I'm Yusuf Satria Borneo</h1>
 <h3 align="center">🎓 Hello Every One, Welcome to my Github. I am 22 Years Old. Im Study In University Diponogoro In The Semarang Area You Can Get to Know me, On The Social Media listed below. My Current activity is Learning Programing and Creating Content Programing and Gaming. I have Account You Tube, You Can See My Content.</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufsatriaborneo&label=Profile%20views&color=0e75b6&style=flat" alt="yusufsatriaborneo" /> </p>
